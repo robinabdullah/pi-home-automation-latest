@@ -1,7 +1,7 @@
 <?php 
 function OpenCon()
 	{
-		 $dbhost = "localhost";
+		 $dbhost = "localhost:51580";
 		 $dbuser = "root";
 		 $dbpass = "";
 		 $db = "homeautomation";
